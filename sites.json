@@ -487,6 +487,18 @@
         ]
     },
 
+    
+    {
+        "name": "Bittrex",
+        "url": "https://support.bittrex.com",
+        "difficulty": "hard",
+        "notes": "In order to delete a bittrex.com account, you have to create a separate support.bittrex.com account. You then have to submit a request to have your account deleted, and that usually takes them a few days to fulfill. However, even though they'll delete your bittrex.com account, they won't delete your support.bittrex.com account, even if you submit a new request for that.",
+        "domains": [
+            "https://bittrex.com",
+            "https://support.bittrex.com"
+        ]
+    },
+    
     {
         "meta": "popular",
         "name": "Blogger",
